@@ -1,0 +1,4 @@
+function char _Functie
+function int _Gr 
+:  struct _STr 
+struct _ST 

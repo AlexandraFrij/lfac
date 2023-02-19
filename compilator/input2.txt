@@ -1,0 +1,36 @@
+int _A1, _A2, _A4, _A5;
+char _C1; 
+char _C5;
+string _S2;
+const int _Wr := 12;
+const float _F3 := -12,9;
+array int _Array[12];
+function char _Functie (int _A8 , string _S4) {
+    _A2 := _A1 + _Wr;};
+function int _Gr() { _A2 := _C1 + _Wr;};
+
+struct _STr{};
+struct _ST{ int _Gt;};
+
+begin_program {
+    _A1 := 12;
+    _A5 := +1 _A4;
+    _A1 :=_A4 >= _A5;
+    TypeOf(12+12,5);
+    _Array := { 1,2,3,4,5,6,7,8,9,10,11,12,13};
+    _Functie();
+    if(_A4 >= _A5) 
+        { _A2 := _C1 + _Wr;} ;
+
+    while( _A4 >= _A5)
+        {_A2 := _C1 + _Wr;};
+
+    do 
+        {_A2 := _C1 + _Wr;}
+    while ( _A4 >= _A5);
+
+    for (_A4 ; _A4 > 12 ; +1 _A4) 
+        {_A2 := _C1 + _Wr;};
+
+    Eval (_A1);
+} end_program

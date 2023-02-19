@@ -1,0 +1,15 @@
+int _A1 
+int _A2 
+int _A4 
+int_A5
+char _C1 
+char _C5 
+string _S2 
+const int _Wr := 12
+const float _F3 := -12.000000
+array int _Array[12] 
+int _A8 
+string _S4 
+ring _S4 
+int _Gt 
+ _Gt 
